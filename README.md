@@ -32,7 +32,7 @@ The project is guided by the CRISP-DM (Cross-Industry Standard Process for Data 
 
 | Notebook      | Docker Image        | Published Article |
 |-----------|-------------|:-------------:|
-| [Sepsis ML model notebook](https://github.com/bamzyyyy/P5-Building-Machine-Learning-APIs-With-FastAPI/blob/bamzzz/dev/API_App.ipynb) | [Docker image on Docker Hub](https://hub.docker.com/repository/docker/bambam0007/sepsis-app-fast-apii/general) |  [Sepsis Prediction Article](https://medium.com/@obandoandrew8/building-a-machine-learning-api-with-python-fastapi-and-docker-7281df112565) |
+| [Sepsis ML model notebook](https://github.com/bamzyyyy/P5-Building-Machine-Learning-APIs-With-FastAPI/blob/bamzzz/dev/API_App.ipynb) | [Docker image on Docker Hub](https://hub.docker.com/repository/docker/bambam0007/sepsis-app-fast-apii/general) |  [Sepsis Prediction Article](https://medium.com/@aminuoluwarotimi/building-a-machine-learning-api-with-python-fastapi-and-docker-81ec608b9263) |
 
 
 ## Table of Contents 🔖
